@@ -1,4 +1,4 @@
-package com.company;
+package ru.vsu.cs.garaba;
 
 public class Picture {
     private final Line line1;

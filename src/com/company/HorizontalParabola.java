@@ -16,6 +16,7 @@ public class HorizontalParabola {
             return x >= a * Math.pow(y - y0, 2) + x0;
         } else {
             return x <= a * Math.pow(y - y0, 2) + x0;
+
         }
     }
 }

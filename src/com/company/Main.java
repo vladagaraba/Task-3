@@ -1,4 +1,4 @@
-package ru.vsu.cs.garaba;;
+package ru.vsu.cs.garaba;
 
 import java.util.Scanner;
 

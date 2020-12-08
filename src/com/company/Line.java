@@ -1,4 +1,4 @@
-package ru.vsu.cs.garaba;;
+package ru.vsu.cs.garaba;
 
 public class Line {
     private final double x0;
